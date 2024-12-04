@@ -1,0 +1,21 @@
+{
+  "name": "Visualizing Mental Load",
+  "short_name": "Visualizing Mental Load",
+  "description": "Visualizing Mental Load",
+  "start_url": "https://hci-2024-09.infinityfreeapp.com/hci-2024-09-webapp-c",
+  "display": "standalone",
+  "background_color": "#4B286D",
+  "theme_color": "#4B286D",
+  "icons": [
+    {
+      "src": "https://hci-2024-09.infinityfreeapp.com/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://hci-2024-09.infinityfreeapp.com/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
