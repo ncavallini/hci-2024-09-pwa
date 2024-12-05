@@ -26,6 +26,14 @@
       "type": "image/png",
       "form_factor": "wide",
       "label": "Dashboard"
+    },
+
+       {
+
+     "src": "https://hci-2024-09.infinityfreeapp.com/hci-2024-09-webapp-a/screen_a_desk.jpg",
+      "sizes": "1220x2712",
+      "type": "image/jpg",
+      "label": "Dashboard"
     }
  ]
 }
